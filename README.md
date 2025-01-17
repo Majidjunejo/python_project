@@ -1,4 +1,4 @@
-# Project Title
+# Institute Management System 
 
 A brief description of what your project does and who it's for.
 
@@ -15,11 +15,11 @@ A brief description of what your project does and who it's for.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Majidjunejo/python_project/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd python_project
    ```
 3. Create and activate a virtual environment (optional but recommended):
    ```bash
